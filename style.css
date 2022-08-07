@@ -1,0 +1,36 @@
+.nav-item {
+    border-bottom: 2px solid transparent;
+    }
+
+.nav-item:hover:after {
+    border-bottom: 2px solid black ;
+    content: "";
+    display:block;
+    width:20px;
+    margin-left: 10px;
+    }
+
+.blog {
+    text-align:center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:100;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+
+.navigation{
+    justify-content:center !important;
+    }    
+
+.nav-item1 {
+    border-bottom: 2px solid transparent;
+  
+    }
+
+.nav-item1:hover:after {
+    border-bottom: 2px solid black ;
+    content: "";
+    display:inline-block;
+    width:20px;
+    margin-left: 10px;
+    }
