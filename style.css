@@ -24,7 +24,6 @@
 
 .nav-item1 {
     border-bottom: 2px solid transparent;
-  
     }
 
 .nav-item1:hover:after {
@@ -34,3 +33,9 @@
     width:20px;
     margin-left: 10px;
     }
+   
+    .nav-link:hover {
+        font-weight:bold;
+    }
+    
+  
