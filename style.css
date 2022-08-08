@@ -95,6 +95,7 @@
     border-color: rgb(206, 204, 204);
     color: black;
     padding: 10px 30px;
+    margin-bottom: 30px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -125,6 +126,14 @@
     text-decoration: none;
     cursor:pointer;
     border-radius: 70px;
+    }
+
+.white-text {
+    color: white;
+    }
+            
+.white-text:hover {
+    color:white;
     }
  
 .show-more:hover {
