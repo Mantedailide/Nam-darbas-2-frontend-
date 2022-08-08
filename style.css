@@ -50,6 +50,7 @@
     margin-top: 50px;
     font-weight: bold;
     font-size: 32px;
+    margin-right:30px;
     }
 
 .date {
@@ -84,6 +85,10 @@
     border-radius: 70px;
     }
 
+.learn-more:hover {
+    border-color: black;
+    }
+
 .show-more {
     background-color: black;
     border-color: black;
@@ -93,10 +98,15 @@
     margin: auto;
     text-align: center;
     text-decoration: none;
-    /* display:inline-block; */
     cursor:pointer;
     border-radius: 70px;
     }
+ 
+.show-more:hover {
+    background-color: bisque; 
+    color:black; 
+    border-color: bisque;
+}    
     
 .footer {
     margin-top: 100px;
