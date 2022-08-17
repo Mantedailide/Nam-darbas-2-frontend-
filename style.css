@@ -16,6 +16,8 @@
     margin-left: 10px;
     }
 
+    .pointer {cursor: pointer;}
+
 .blog {
     text-align:center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -45,6 +47,11 @@
     font-weight:bold;
     }
 
+.row {
+    margin-top: 50px;
+    margin-bottom: 50px;
+} 
+
 .image {
     width:100%;
      height:100%;
@@ -54,9 +61,7 @@
 .grey-picture {
     width:560px;
     height:560px;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    background-size: contain;
+    padding: 0;
     }
 
 .golfino-awards {
@@ -64,7 +69,7 @@
     height:460px;
     position: absolute;
     left:50px;
-    top:100px;
+    top:50px;
     opacity: 0;
     transition: all 0.7s ease;
     }
@@ -74,7 +79,7 @@
 }
 
 .black-text {
-    margin-top: 50px;
+    padding-top: 70px;
     font-weight: bold;
     font-size: 32px;
     }
@@ -113,7 +118,7 @@
     font-size: 21px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color:rgb(170, 170, 170);
-    margin-bottom: 50px;
+    margin-bottom: 100px;
     }
 
 .learn-more {
