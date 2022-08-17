@@ -1,8 +1,8 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+    }
 
 .nav-item {
     border-bottom: 2px solid transparent;
@@ -15,8 +15,6 @@
     width:20px;
     margin-left: 10px;
     }
-
-    .pointer {cursor: pointer;}
 
 .blog {
     text-align:center;
@@ -76,7 +74,7 @@
 
 .golfino-awards:hover {
     opacity: 1;
-}
+    }
 
 .black-text {
     padding-top: 70px;
@@ -171,7 +169,7 @@
     background-color: bisque; 
     color:black; 
     border-color: bisque;
-}    
+    }    
     
 .footer {
     margin-top: 100px;
