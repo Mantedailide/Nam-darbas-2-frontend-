@@ -104,9 +104,9 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
     }
 
-.line {
-    width: 10%;
-    border: 2px solid black;
+.bottom-line {
+    width: 8%;
+    height: 2px;
     background-color: black;
     margin-top: 30px;
     margin-bottom: 30px;
